@@ -5,11 +5,11 @@
 # Project Summary
 This project describes how to implement a medallion lakehouse architecture in Microsoft Fabric. The Medallion architecture consists of three layers: Bronze Layer (the Raw Data Layer), Silver Layer (validated), and Gold Layer (enriched). Each layer has a specific purpose and is designed to support efficient data governance and performance.
 
--Created Lakehouse
--Data Ingestion.
--Silver Data Transformation.
--Gold Data Transformation.
--Data Modelling.
--Data Visualization in Power BI Service.
+-  Lakehouse Creation
+- Data Ingestion.
+- Silver Data Transformation.
+- Gold Data Transformation.
+- Data Modelling.
+- Data Visualization in Power BI Service.
 
 This project uses the dataset
