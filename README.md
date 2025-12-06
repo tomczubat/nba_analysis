@@ -12,4 +12,5 @@ This project describes how to implement a medallion lakehouse architecture in Mi
 - Data Modelling.
 - Data Visualization in Power BI Service.
 
-This project uses the dataset
+This project uses the dataset [NBA Stats (1947-present)
+](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats)
